@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+width: 300px;
+ 
+background-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
+padding: 10px;
+
+}
+
+a {
+text-decoration: none;
+color: rgb(29, 29, 29);
+
+}
+a:hover
+{
+    color: rgb(66, 65, 65);
+    text-shadow: 3px 2px 10px crimson
+ 
+}
+ a:active {
+text-shadow: 3px 3px 20px black;
+
+
+ }
+
+ a:visited {
+
+ color: aquamarine;
+ text-decoration: ;
+
+ }
